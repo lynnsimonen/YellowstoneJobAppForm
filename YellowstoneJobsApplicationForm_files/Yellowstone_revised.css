@@ -1,0 +1,85 @@
+#upperHdr {
+    background-color: #f3bf18;
+    height: 100px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#searchBar{
+    margin-top: 5px;
+}
+
+#lowerHdr {
+    height: 300px;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#yellowWntr {
+    height: 275px;
+    margin-left: 0;
+    margin-right: 0;
+    width: auto;
+}
+
+.container-fluid{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#logo {
+    position: absolute;
+    z-index: 1000;
+    top: 0px;
+    left: 0px;
+    bottom: 10px;
+    overflow: hidden;
+    width: 500px;
+    height: 200px;
+    top: 5px;
+    left: 10px;
+}
+
+/*Application Form*/
+
+#appForm{
+    margin-top: 10px;
+    margin-left: 205px;
+    margin-bottom: 25px;
+    text-decoration-line: underline;
+}
+.nav-tabs{
+    background-color: white;
+    color: black;
+}
+
+.nav-link{
+    color: black;
+    text-align: start;
+}
+
+link.active{
+    display: block;
+}
+
+.reqRadio3
+
+
+
+@media (min-width: 700px) {
+    #appForm{
+        margin-left: 305px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+        text-decoration-line: underline;
+    }
+
+    link.active{
+        display: block;
+    }
+    }
